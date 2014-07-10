@@ -1,0 +1,3 @@
+name: Minifigurestudio-t3
+main: com.tenjava.entries.Minifigurestudio.t3.TenJava
+version: '${project.version}'
